@@ -1,0 +1,3 @@
+Could not get either version (spaceDD.py or SpaceDD flat.py) to create a "new galaxy" last time I compiled it. Not sure what broke. 
+The part that does work is the "Random Board", it should pull every list and present them for one click return from the random table. << This alone could be a tool. Exists in world, but not great.
+This version was before I modified to be able to go "infinitely" deep with stacked Traits.
